@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Seminario</string>
+    <string name="counter">Counter</string>
+    <string name="Increment">Increment</string>
+    <string name="Go_Red_Screen">Go Red Screen</string>
+    <string name="Go_Blue_Screen">Go Blue Screen</string>
+    <string name="Back_Main">Back Main</string>
+    <string name="inicial">Inicial</string>
+    <string name="reset">Reset</string>
+    <string name="recommend">Recommend</string>
+    <string name="Load_users">Load users</string>
+</resources>

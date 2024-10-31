@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="textPrimaryColor">#050505</color>
+    <color name="textSecondaryColor">#673AB7</color>
+    <color name="textErrorColor">#F44336</color>
+    <color name="red">#A9372F</color>
+    <color name="blue">#2196F3</color>
+    <color name="green">#8BC34A</color>
+
+</resources>
