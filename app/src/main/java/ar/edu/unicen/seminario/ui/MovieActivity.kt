@@ -25,7 +25,7 @@ class MovieActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         subscribeToViewModel()
-        loadMovies() // Carga las películas
+        loadMovies()
     }
 
     private fun subscribeToViewModel() {
