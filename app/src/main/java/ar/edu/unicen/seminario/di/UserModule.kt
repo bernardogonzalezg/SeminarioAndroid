@@ -1,4 +1,4 @@
-package ar.edu.unicen.seminario.dl
+package ar.edu.unicen.seminario.di
 
 import ar.edu.unicen.seminario.BuildConfig
 import ar.edu.unicen.seminario.ddl.data.MovieApi
